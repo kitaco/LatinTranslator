@@ -1,0 +1,9 @@
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb
